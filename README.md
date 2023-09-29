@@ -3,7 +3,7 @@
 
 #### Go to Live Project: https://ecommerce-store-react-redux-tailwind.netlify.app/
 
-[![image](./screenshot.png)]
+[![image](./screenshot.JPG)]
 
 ### Full Mobile Responsive Web Page
 
